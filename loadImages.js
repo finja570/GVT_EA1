@@ -7,7 +7,7 @@ var transform = 0.0;  // current disc transformation
 
 function pageLoad(){
     loadImage('scheibe.png', 'ScheibeImg');
-    loadImage('kitty.png', 'KittyImg');
+    loadImage('Kitty.png', 'KittyImg');
     addListeners();
 }
 
